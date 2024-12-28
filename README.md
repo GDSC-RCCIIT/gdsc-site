@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/352ba700-4f8d-45cc-87e4-86fc569a2c78" alt="Hacktoberfest" style="width:60%;" />
 </div>
 
-# GDG RCCIIT Website 🚀
+# GDG RCCIIT Website Test 🚀
 
 ![image](https://github.com/user-attachments/assets/bba5659e-5d29-464a-ad33-63b7a2e9bd55)
  
