@@ -79,6 +79,7 @@
 │   ├── inovate1.png
 │   ├── inovate2.png
 │   ├── inovate3.png
+│   ├── loading.mp4
 │   ├── mission.webp
 │   ├── os1.png
 │   ├── os2.ico
@@ -116,6 +117,9 @@
 │   ├── t-shirt7.jpeg
 │   ├── t-shirt8.jpeg
 │   ├── t-shirt9.jpeg
+│   ├── team/
+│   │   ├── rishi.png
+│   │   └── sagnik.png
 │   ├── techeq1.webp
 │   ├── techeq2.webp
 │   ├── truth1.png
@@ -140,6 +144,8 @@
 │   │   │   ├── AddSpotlight/
 │   │   │   │   └── page.jsx
 │   │   │   ├── AddStories/
+│   │   │   │   └── page.jsx
+│   │   │   ├── AllPages/
 │   │   │   │   └── page.jsx
 │   │   │   ├── Blogs/
 │   │   │   │   ├── Blogs.js
@@ -295,6 +301,8 @@
 │   │   │   ├── how-apply/
 │   │   │   │   └── page.jsx
 │   │   │   ├── industry-solutions/
+│   │   │   │   └── page.jsx
+│   │   │   ├── innovate/
 │   │   │   │   └── page.jsx
 │   │   │   ├── inovate/
 │   │   │   │   └── page.jsx
